@@ -1,0 +1,29 @@
+1.新建项目  ： scrapy   startproject  xxxx
+
+2.目录结构  ：
+
+xxxx/
+   scrapy.cfg
+   xxxxx
+	__init__.py
+	items.py
+	pipelines.py
+	settings.py
+	spiders/
+	    __init__.py
+
+3.编写一个spider   (在此基础上，对其改写)
+	scrapy  genspider xxxxxxxxx（工程名）   xxxx(地址)
+
+4.运行命令
+	scrapy crawl  xxxxx(工程名)
+
+scrapy命令：
+  	--help
+	version 
+	version -v
+	stratproject
+	genspider
+	list
+	view , parse
+	

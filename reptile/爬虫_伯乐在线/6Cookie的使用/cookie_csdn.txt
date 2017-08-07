@@ -1,0 +1,7 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+passport.csdn.net	FALSE	/	FALSE		JSESSIONID	53BFDDCE3D252114327E24DA09913421.tomcat2
+passport.csdn.net	FALSE	/	TRUE	1493988660	LSSC	LSSC-1338442-dXlMTp1fKqAqEqwWUupZrQvdFMUn0h-passport.csdn.net
+passport.csdn.net	FALSE	/account	FALSE		JSESSIONID	53BFDDCE3D252114327E24DA09913421.tomcat2
